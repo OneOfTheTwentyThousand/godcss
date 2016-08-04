@@ -1,0 +1,25 @@
+{
+  "name": "flex.css",
+  "version": "1.0.3",
+  "description": "",
+  "main": "dist/flex.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1340641314/flex.css.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/1340641314/flex.css/issues"
+  },
+  "homepage": "https://github.com/1340641314/flex.css#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-less": "^3.1.0",
+    "gulp-minify-css": "^1.2.4"
+  }
+}
