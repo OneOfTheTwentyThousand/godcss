@@ -1,5 +1,5 @@
 # godcss
-移动端布局终极解决方案+神器--- 让移动端布局开发更加容易 http:/www.github.com/godcss/
+移动端布局终极解决方案+神器--- 让移动端布局开发更加容易 http:/www.github.com/cllgeek/godcss/
 
 ### 介绍
 
@@ -288,6 +288,5 @@ NodeJS前端分享群：133240225
 
 ### 辅助开发资源
 
-- [godcss Sulime text 代码片段](https://github.com/imochen/godcss/issues/7) -- 感谢[dctxf](https://github.com/dctxf)提供
 - [koala<中文，免费>](http://koala-app.com/index-zh.html)
 - [codekit<功能丰富，收费>](http://incident57.com/codekit/)
